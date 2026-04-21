@@ -1,4 +1,4 @@
-# Elite 102 Banking App 🏦💰
+# Elite 102 Banking App 🏦
 
 ## Overview
 
